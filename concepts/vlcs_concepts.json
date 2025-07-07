@@ -1,0 +1,38 @@
+{
+    "bird": [
+        "beak",
+        "wings",
+        "tail"
+    ],
+    "car": [
+        "headlights",
+        "grille",
+        "wheels"
+    ],
+    "chair": [
+        "legs",
+        "backrest",
+        "seat",
+        "armrests",
+        "material"
+    ],
+    "dog": [
+        "fur",
+        "tail",
+        "ears"
+    ],
+    "person": [
+        "eyes",
+        "nose",
+        "mouth",
+        "hair",
+        "ears",
+        "eyebrows",
+        "jawline",
+        "chin",
+        "forehead",
+        "cheekbones",
+        "skin tone",
+        "facial hair"
+    ]
+}

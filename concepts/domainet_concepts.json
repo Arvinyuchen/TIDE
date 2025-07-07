@@ -1,0 +1,218 @@
+{
+    "ambulance": [
+        "siren",
+        "cross",
+        "stretcher"
+    ],
+    "chair": [
+        "legs",
+        "backrest",
+        "seat",
+        "armrests",
+        "material",
+        "color",
+        "shape"
+    ],
+    "bear": [
+        "fur",
+        "claws",
+        "snout"
+    ],
+    "dog": [
+        "fur",
+        "tail",
+        "ears"
+    ],
+    "telephone": [
+        "keypad",
+        "receiver",
+        "cord"
+    ],
+    "bicycle": [
+        "wheels",
+        "frame",
+        "handlebars"
+    ],
+    "clock": [
+        "hands",
+        "numbers",
+        "face"
+    ],
+    "sheep": [
+        "wool",
+        "horns",
+        "face"
+    ],
+    "table": [
+        "legs",
+        "surface",
+        "shape"
+    ],
+    "rabbit": [
+        "ears",
+        "fur",
+        "tail"
+    ],
+    "elephant": [
+        "tusks",
+        "trunk",
+        "ears"
+    ],
+    "bird": [
+        "beak",
+        "wings",
+        "tail"
+    ],
+    "cat": [
+        "fur",
+        "tail",
+        "whiskers",
+        "eyes",
+        "ears",
+        "nose"
+    ],
+    "cow": [
+        "spots",
+        "horns",
+        "udder"
+    ],
+    "bridge": [
+        "arch",
+        "cables",
+        "towers"
+    ],
+    "duck": [
+        "bill",
+        "webbed feet",
+        "feathers"
+    ],
+    "truck": [
+        "wheels",
+        "headlights",
+        "grill",
+        "cab",
+        "bed"
+    ],
+    "donut": [
+        "Hole",
+        "glaze",
+        "sprinkles"
+    ],
+    "cake": [
+        "frosting",
+        "layers",
+        "decorations"
+    ],
+    "dolphin": [
+        "dorsal fin",
+        "flippers",
+        "blowhole"
+    ],
+    "backpack": [
+        "straps",
+        "pockets",
+        "zippers"
+    ],
+    "banana": [
+        "curvature",
+        "color",
+        "length"
+    ],
+    "drums": [
+        "cymbals",
+        "drumsticks",
+        "snare"
+    ],
+    "bathtub": [
+        "faucet",
+        "drain",
+        "shape"
+    ],
+    "butterfly": [
+        "wings",
+        "antennae",
+        "body shape"
+    ],
+    "camera": [
+        "lens",
+        "viewfinder",
+        "flash"
+    ],
+    "fence": [
+        "vertical bars",
+        "horizontal bars",
+        "posts"
+    ],
+    "airplane": [
+        "wings",
+        "tail",
+        "fuselage"
+    ],
+    "fork": [
+        "tines",
+        "handle",
+        "prongs"
+    ],
+    "apple": [
+        "stem",
+        "skin",
+        "color"
+    ],
+    "scissors": [
+        "blades",
+        "handles",
+        "pivot"
+    ],
+    "book": [
+        "cover",
+        "spine",
+        "pages"
+    ],
+    "horse": [
+        "mane",
+        "tail",
+        "hooves"
+    ],
+    "bed": [
+        "headboard",
+        "footboard",
+        "mattress",
+        "frame",
+        "pillows"
+    ],
+    "bee": [
+        "stripes",
+        "wings",
+        "antennae"
+    ],
+    "car": [
+        "wheels",
+        "headlights",
+        "grille"
+    ],
+    "strawberry": [
+        "seeds",
+        "color",
+        "shape"
+    ],
+    "bus": [
+        "wheels",
+        "windows",
+        "doors"
+    ],
+    "house": [
+        "roof",
+        "windows",
+        "door",
+        "chimney",
+        "porch",
+        "shutters",
+        "siding",
+        "dormer"
+    ],
+    "calculator": [
+        "buttons",
+        "screen",
+        "size"
+    ]
+}

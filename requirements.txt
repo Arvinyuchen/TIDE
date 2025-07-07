@@ -1,0 +1,8 @@
+torch>=2.3
+torchvision
+hydra-core
+omegaconf 
+tqdm
+wandb
+pillow
+gdown

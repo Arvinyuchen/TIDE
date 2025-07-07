@@ -1,0 +1,51 @@
+{
+    "dog": [
+        "fur",
+        "tail",
+        "ears"
+    ],
+    "elephant": [
+        "tusks",
+        "trunk",
+        "ears"
+    ],
+    "giraffe": [
+        "neck",
+        "spots",
+        "ossicones"
+    ],
+    "guitar": [
+        "body",
+        "neck",
+        "headstock",
+        "strings",
+        "frets",
+        "soundhole"
+    ],
+    "horse": [
+        "mane",
+        "tail",
+        "hooves"
+    ],
+    "house": [
+        "roof",
+        "windows",
+        "door",
+        "chimney",
+        "porch",
+        "shutters",
+        "garage"
+    ],
+    "person": [
+        "eyes",
+        "nose",
+        "mouth",
+        "hair",
+        "ears",
+        "eyebrows",
+        "chin",
+        "jawline",
+        "forehead",
+        "cheekbones"
+    ]
+}

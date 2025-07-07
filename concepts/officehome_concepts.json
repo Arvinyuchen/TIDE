@@ -1,0 +1,395 @@
+{
+    "Alarm_Clock": [
+        "numbers",
+        "hands",
+        "buttons"
+    ],
+    "Backpack": [
+        "straps",
+        "pockets",
+        "zippers",
+        "handle",
+        "logo"
+    ],
+    "Batteries": [
+        "cylindrical",
+        "terminals",
+        "label"
+    ],
+    "Bed": [
+        "headboard",
+        "footboard",
+        "mattress",
+        "frame",
+        "legs"
+    ],
+    "Bike": [
+        "wheels",
+        "frame",
+        "handlebars",
+        "pedals",
+        "seat"
+    ],
+    "Bottle": [
+        "shape",
+        "color",
+        "label",
+        "cap",
+        "size"
+    ],
+    "Bucket": [
+        "handle",
+        "shape",
+        "material"
+    ],
+    "Calculator": [
+        "buttons",
+        "screen",
+        "size",
+        "shape",
+        "color",
+        "numbers"
+    ],
+    "Calendar": [
+        "numbers",
+        "grid",
+        "days",
+        "months",
+        "year"
+    ],
+    "Candles": [
+        "wax",
+        "wick",
+        "flame"
+    ],
+    "Chair": [
+        "legs",
+        "backrest",
+        "seat",
+        "armrests",
+        "material"
+    ],
+    "Clipboards": [
+        "clip",
+        "metal clip",
+        "wooden board"
+    ],
+    "Computer": [
+        "keyboard",
+        "monitor",
+        "CPU",
+        "mouse",
+        "webcam"
+    ],
+    "Couch": [
+        "cushions",
+        "armrests",
+        "legs"
+    ],
+    "Curtains": [
+        "color",
+        "pattern",
+        "material"
+    ],
+    "Desk_Lamp": [
+        "bulb",
+        "shade",
+        "base",
+        "arm",
+        "switch"
+    ],
+    "Drill": [
+        "bit",
+        "handle",
+        "trigger",
+        "cord",
+        "chuck",
+        "motor"
+    ],
+    "Eraser": [
+        "rubber",
+        "rectangular",
+        "pink",
+        "white",
+        "eraser tip"
+    ],
+    "Exit_Sign": [
+        "red",
+        "white",
+        "text",
+        "arrow",
+        "rectangle"
+    ],
+    "Fan": [
+        "blades",
+        "base",
+        "motor"
+    ],
+    "File_Cabinet": [
+        "drawers",
+        "handles",
+        "label_holder"
+    ],
+    "Flipflops": [
+        "straps",
+        "sole",
+        "thong",
+        "pattern"
+    ],
+    "Flowers": [
+        "petals",
+        "stem",
+        "leaves"
+    ],
+    "Folder": [
+        "tab",
+        "label",
+        "color"
+    ],
+    "Fork": [
+        "tines",
+        "handle",
+        "prongs"
+    ],
+    "Glasses": [
+        "lenses",
+        "frames",
+        "temples"
+    ],
+    "Hammer": [
+        "handle",
+        "head",
+        "claw"
+    ],
+    "Helmet": [
+        "visor",
+        "chinstrap",
+        "shell"
+    ],
+    "Kettle": [
+        "spout",
+        "handle",
+        "lid",
+        "base",
+        "body"
+    ],
+    "Keyboard": [
+        "keys",
+        "layout",
+        "size",
+        "shape",
+        "color",
+        "symbols",
+        "brand logo",
+        "material",
+        "weight",
+        "cable",
+        "LED lights"
+    ],
+    "Knives": [
+        "blade",
+        "handle",
+        "serrations"
+    ],
+    "Lamp_Shade": [
+        "shape",
+        "material",
+        "color",
+        "texture",
+        "size",
+        "pattern"
+    ],
+    "Laptop": [
+        "keyboard",
+        "screen",
+        "trackpad",
+        "hinge",
+        "ports",
+        "logo"
+    ],
+    "Marker": [
+        "cap",
+        "tip",
+        "barrel"
+    ],
+    "Monitor": [
+        "scales",
+        "tail",
+        "claws"
+    ],
+    "Mop": [
+        "bristles",
+        "handle",
+        "color"
+    ],
+    "Mouse": [
+        "tail",
+        "fur",
+        "whiskers"
+    ],
+    "Mug": [
+        "handle",
+        "shape",
+        "material",
+        "color",
+        "size"
+    ],
+    "Notebook": [
+        "keyboard",
+        "screen",
+        "trackpad"
+    ],
+    "Oven": [
+        "knobs",
+        "door",
+        "display",
+        "racks",
+        "heating elements"
+    ],
+    "Pan": [
+        "handle",
+        "lid",
+        "base"
+    ],
+    "Paper_Clip": [
+        "metal",
+        "loop",
+        "flat"
+    ],
+    "Pen": [
+        "cap",
+        "clip",
+        "barrel",
+        "tip",
+        "grip",
+        "brand logo"
+    ],
+    "Pencil": [
+        "lead",
+        "eraser",
+        "wood"
+    ],
+    "Postit_Notes": [
+        "color",
+        "size",
+        "shape"
+    ],
+    "Printer": [
+        "paper tray",
+        "control panel",
+        "output tray",
+        "ink cartridges",
+        "power button"
+    ],
+    "Push_Pin": [
+        "sharp",
+        "metal",
+        "round"
+    ],
+    "Radio": [
+        "antenna",
+        "knobs",
+        "display"
+    ],
+    "Refrigerator": [
+        "handle",
+        "shelves",
+        "doors"
+    ],
+    "Ruler": [
+        "markings",
+        "length",
+        "material"
+    ],
+    "Scissors": [
+        "blades",
+        "handles",
+        "pivot"
+    ],
+    "Screwdriver": [
+        "handle",
+        "shaft",
+        "tip"
+    ],
+    "Shelf": [
+        "shelves",
+        "height",
+        "width",
+        "depth",
+        "material",
+        "color",
+        "number"
+    ],
+    "Sink": [
+        "faucet",
+        "basin",
+        "drain"
+    ],
+    "Sneakers": [
+        "sole",
+        "laces",
+        "tongue",
+        "logo",
+        "material",
+        "color"
+    ],
+    "Soda": [
+        "bubbles",
+        "label",
+        "color",
+        "shape",
+        "size"
+    ],
+    "Speaker": [
+        "grille",
+        "logo",
+        "buttons"
+    ],
+    "Spoon": [
+        "handle",
+        "bowl",
+        "material"
+    ],
+    "TV": [
+        "screen",
+        "stand",
+        "remote"
+    ],
+    "Table": [
+        "legs",
+        "surface",
+        "shape"
+    ],
+    "Telephone": [
+        "dial pad",
+        "receiver",
+        "cord"
+    ],
+    "ToothBrush": [
+        "bristles",
+        "handle",
+        "head shape"
+    ],
+    "Toys": [
+        "color",
+        "shape",
+        "size",
+        "texture",
+        "material",
+        "pattern",
+        "wheels",
+        "buttons",
+        "lights",
+        "sound"
+    ],
+    "Trash_Can": [
+        "lid",
+        "handle",
+        "shape"
+    ],
+    "Webcam": [
+        "lens",
+        "microphone",
+        "indicator LED"
+    ]
+}
