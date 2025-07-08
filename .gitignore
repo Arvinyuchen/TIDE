@@ -11,3 +11,4 @@ wandb/
 
 # datasets
 data/
+sd_cross_attn/outputs/

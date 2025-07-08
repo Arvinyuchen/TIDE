@@ -7,6 +7,7 @@ import cv2
 import numpy as np
 import torch
 
+import ptp_utils
 from ptp_utils import AttentionStore, aggregate_attention
 
 
@@ -16,13 +17,25 @@ def get_token_indices(prompt, concepts, tokenizer):
     tokens = tokenizer.convert_ids_to_tokens(tokenized.input_ids[0])
 
     indices = []
-    for concept in conceptss:
+    for concept in concepts:
         concept_tokens = tokenizer(concept, add_special_tokens=False).input_ids
         for i in range(len(tokens) - len(concept_tokens) + 1):
             if tokenized.input_ids[0][i:i + len(concept_tokens)].tolist() == concept_tokens:
                 indices.extend(list(range(i, i + len(concept_tokens))))
                 break
     return indices
+
+
+
+# def get_token_indices(prompt, concepts, tokenizer):
+#     tokens, _ = tokenizer(prompt)
+#     indices = []
+
+#     for i, token in enumerate(tokens):
+#         if token in concepts:
+#             indices.append(i)
+
+#     return indices
 
 
 
@@ -35,11 +48,12 @@ def show_cross_attention(prompt: str,
                          from_where: List[str],
                          select: int = 0,
                          orig_image=None):
-    output_dir = "ca_outputs"
+    output_dir = os.path.join("outputs", class_name)
     os.makedirs(output_dir, exist_ok=True)
 
     tokens = tokenizer.encode(prompt)
     decoder = tokenizer.decode
+    # tokens, _ = tokenizer(prompt)
     attention_maps = aggregate_attention(attention_store, res, from_where, True, select).detach().cpu()
     images = []
 
@@ -55,7 +69,7 @@ def show_cross_attention(prompt: str,
             image = ptp_utils.text_under_image(image, token_text)
             images.append(image)
 
-            output_path = os.path.join(output_dir, f"{class_name}_{token_text}_attention.png")
+            output_path = os.path.join(output_dir, f"{token_text}_attention.png")
             Image.fromarray(image).save(output_path)
 
     ptp_utils.view_images(np.stack(images, axis=0))
